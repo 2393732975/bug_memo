@@ -29,3 +29,5 @@ git config --global http.version HTTP/1.1
 成功解决：[参考链接](https://www.cnblogs.com/michaelcjl/p/18432886)
 
 
+### No.4
+安装conda不会踩雷的教程：[conda环境搭建教程](https://blog.csdn.net/Alex_81D/article/details/135692506)
